@@ -1,0 +1,83 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+// @import "variables";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+@import "constantes";
+
+body{
+
+	
+
+	#formmedicina{
+		margin-left: 174px;
+		margin-top:117px;
+
+		input{
+			width: 314px;
+			height: 39px;
+	
+		}
+
+		button{
+
+			margin-left: 111px;
+		}
+	}
+
+#letrablanca{
+
+	color: white;
+}
+
+#listap{
+
+	color: white;
+}
+
+
+.navbar{
+
+	
+
+	width: 888px;
+
+}
+
+.jumbotron{
+	
+	opacity: 0.6;
+    filter: alpha(opacity=60);
+    background-color: #02b9b7;
+}
+
+#searchbar{
+	margin-left: 152px;
+}
+
+
+td{
+	background-color: lightgray;
+}
+
+
+#searchbar{
+
+	margin-top: 24px;
+}
+
+#buscar{
+
+	margin-top: 224px;
+	margin-left
+}
+
+}
+
+
+	
